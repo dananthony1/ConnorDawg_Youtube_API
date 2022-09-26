@@ -14,6 +14,6 @@ generate summary statistics for the views on ConnorDawg's channel and provide vi
 * The dataset is heavily skewed right in both datasets.
 * A majority of the view counts are below 4.35e+05 views, but some videos have views in the millions which skews the data. 
 
-![Histogram Plots](/Resources/HistogramPlots.png "Histogram Plots")
-![Stats With Outlier](/Resources/StatsWithOutlier.png "Stats With Outlier")
+![Histogram Plots](/Resources/HistogramPlots.png "Histogram Plots")\n
+![Stats With Outlier](/Resources/StatsWithOutlier.png "Stats With Outlier")\n
 ![Stats Without Outlier](/Resources/StatsWithoutOutlier.png "Stats Without Outlier")
