@@ -15,5 +15,5 @@ generate summary statistics for the views on ConnorDawg's channel and provide vi
 * A majority of the view counts are below 4.35e+05 views, but some videos have views in the millions which skews the data. 
 
 ![Histogram Plots](/Resources/HistogramPlots.png "Histogram Plots")
-![Stats With Outlier](/Resources/StatsWithOutlier "Stats With Outlier")
-![Stats Without Outlier](/Resources/StatsWithoutOutlier "Stats Without Outlier")
+![Stats With Outlier](/Resources/StatsWithOutlier.png "Stats With Outlier")
+![Stats Without Outlier](/Resources/StatsWithoutOutlier.png "Stats Without Outlier")
