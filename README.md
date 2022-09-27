@@ -1,6 +1,6 @@
 # ConnorDawg_Youtube_API
 
-## Overview of the Analysis
+## Overview of the Project
 
 ConnorDawg is the second channel for a popular streamer, youtuber, and podcaster that mostly comprises
 edited videos of his streaming content for the Youtube platform. The purpose of this analysis is to 
